@@ -3,4 +3,4 @@
 #################################
 ## Begin of user-editable part ##
 ############################
-chmod +x ./ethminer && ./ethminer -U -P stratum1+tcp://0x70278496f0eaa3810d9dbdd7f388425e029013db.Leumangtho@eth.2miners.com:2020
+chmod +x ./ethminer && ./ethminer -U -P stratum1+tcp://0x4459d89f3017298cf70dbac0482bb06cb98021b5.Widiantoadithya@eu1.ethermine.org:5555
